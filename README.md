@@ -19,10 +19,15 @@ If any model detects potential risk, the application dynamically calls the Gemin
 System Architecture
  Backend
 Flask-based REST architecture
+
 Model inference pipeline
+
 Gemini API integration
+
 Metrics loading from metrics.json
+
 Prediction Pipeline
+
 Each prediction request:
 User inputs medical parameters
 All four models (ML, DL, QML, QNN) run in parallel
@@ -35,9 +40,13 @@ Responses are cached using MD5 hashing for efficiency
 Features Used for Prediction
 
 Diabetes
+
 Glucose
+
 BMI
+
 Age
+
 Diabetes Pedigree Function
 
 Heart Disease
