@@ -51,37 +51,65 @@ Diabetes Pedigree Function
 
 Heart Disease
 Age
+
 Sex
+
 Chest Pain Type
+
 Maximum Heart Rate
+
 ST Depression
+
 Exercise-Induced Angina
+
 
 Lung Cancer
 Age
+
 Gender
+
 Smoking Habit
+
 Coughing
+
 Chest Pain
+
 Shortness of Breath
+
 
 Key Features
 Multi-model prediction (ML + DL + QML + QNN)
+
 Quantum computing integration for healthcare analytics
+
 Gemini-powered medical recommendation system
+
 Model accuracy display from stored evaluation metrics
+
 Dockerized deployment
+
 CI/CD integration using GitHub Actions
+
 
 Technologies Used
 Python
+
 Flask
+
 HTML / CSS
+
 scikit-learn
+
 TensorFlow / Keras
+
 PyTorch
+
 PennyLane
+
 Qiskit
+
 Gemini LLM API
+
 Docker
+
 GitHub Actions
