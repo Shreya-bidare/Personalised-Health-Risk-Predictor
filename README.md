@@ -39,7 +39,7 @@ Responses are cached using MD5 hashing for efficiency
 
 Features Used for Prediction
 
-Diabetes
+Diabetes:
 
 Glucose
 
@@ -49,7 +49,8 @@ Age
 
 Diabetes Pedigree Function
 
-Heart Disease
+Heart Disease:
+
 Age
 
 Sex
@@ -63,7 +64,8 @@ ST Depression
 Exercise-Induced Angina
 
 
-Lung Cancer
+Lung Cancer:
+
 Age
 
 Gender
@@ -91,7 +93,8 @@ Dockerized deployment
 CI/CD integration using GitHub Actions
 
 
-Technologies Used
+Technologies Used:
+
 Python
 
 Flask
