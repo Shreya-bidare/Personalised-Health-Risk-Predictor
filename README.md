@@ -7,9 +7,13 @@ Heart Disease
 Lung Cancer
 The system integrates four different predictive modeling approaches:
  Machine Learning (Random Forest)
+ 
  Deep Learning (Keras / TensorFlow)
+ 
  Quantum Machine Learning (Hybrid models)
+ 
  Quantum Neural Networks (QNN using PennyLane + PyTorch)
+ 
 If any model detects potential risk, the application dynamically calls the Gemini LLM API to generate evidence-based medical recommendations.
 
 System Architecture
